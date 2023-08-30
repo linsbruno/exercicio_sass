@@ -1,0 +1,23 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass source/_styles.scss build/styles.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linsbruno/exercicio_sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linsbruno/exercicio_sass/issues"
+  },
+  "homepage": "https://github.com/linsbruno/exercicio_sass#readme",
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}
